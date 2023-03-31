@@ -1,0 +1,55 @@
+body {
+  background-color: rgb(252,237,227)
+}
+
+h1 {
+    color:white;
+    font-family:helvetica;
+    background-color: rgb(242,209,253);
+    border: 5px solid rgb(157,8,209);
+    padding: 100px;
+    text-align: center;
+    }
+
+    h1 {
+      color: black;
+      font-family:cursive;
+      background-color: rgb(225,189,255);
+      font-family: fantasy;
+      text-transform: uppercase;
+    }
+
+p {
+  color:white;
+  background-color: pink;
+  border: 2px dotted rgb(245,51,198);
+  text-align: center;
+}
+
+#highlight {
+  color: white;
+  background-color: rgb(196,148,212);
+  border: 2 px dotted purple;
+}
+
+.top {
+  background-color: rgb(167,187,212);
+  float: left;
+}
+
+h4 {text-align: center;
+}
+
+h3 {
+  color:white;
+  background-color: rgb(245,4,110) ;
+  border: 3 px double pink;
+  text-align: center;
+}
+
+img {
+    border: 5px solid rgb(244,11,202);
+    width: 25%;
+    height: 25%;
+    margin-left: 470px;
+}
